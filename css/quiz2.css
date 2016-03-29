@@ -1,0 +1,86 @@
+html body {
+	font-family: 'Helvetica', Arial, sans-serif;
+	color: #111;
+	background: #E7E7E7;
+}
+
+a {
+	color: #0078A0;
+}
+
+.content {
+	text-align: center;
+	padding: 0 15% 20px;
+	background-color: #6E6E6E;
+	width: 70%;
+	margin: auto;
+	padding: 50px;
+	margin-bottom: 20px;
+
+	-webkit-box-shadow: 10px 10px 28px -2px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 28px -2px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 28px -2px rgba(0,0,0,0.75);
+}
+
+.content h1 {
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 20px 0;
+}
+.content form {
+	padding: 10px;
+	width: 300px;
+	margin: 0 auto;
+}
+
+.content form input {
+	width: 100%;
+	border: 2px solid #107394;
+	color: #107394;
+	background: transparent;
+	margin-bottom: 15px;
+}
+
+.content button.change{
+
+	padding: 5px;
+	margin-top: 5px;
+	width: 100px;
+	height: 100px;
+
+}
+
+.content button.keep{
+
+	padding: 5px;
+	margin-top: 5px;
+	width: 100px;
+	height: 100px;
+	
+}
+
+.content .data {
+
+	font-size: 100px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+.content .click {
+
+	background-color: #F1F1F1;
+
+}
+
+.content .mouse-over {
+
+	background-color: #F1F1F1;
+
+}
+
+.content .submission {
+
+	background-color: #F1F1F1;
+
+}
